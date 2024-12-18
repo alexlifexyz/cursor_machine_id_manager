@@ -31,8 +31,8 @@ Cursor Device ID Manager is a powerful cross-platform toolkit specifically desig
 1. Open Terminal
 2. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cursor-id-manager.git
-   cd cursor-id-manager
+   git clone https://github.com/alexlifexyz/cursor_machine_id_manager.git
+   cd cursor_machine_id_manager
    ```
 3. Make the script executable:
    ```bash

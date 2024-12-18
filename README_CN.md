@@ -31,8 +31,8 @@ Cursor 设备 ID 管理器是一个功能强大且跨平台的工具集，专门
 1. 打开终端
 2. 克隆仓库：
    ```bash
-   git clone https://github.com/yourusername/cursor-id-manager.git
-   cd cursor-id-manager
+   git clone https://github.com/alexlifexyz/cursor_machine_id_manager.git
+   cd cursor_machine_id_manager
    ```
 3. 添加执行权限：
    ```bash
@@ -73,7 +73,7 @@ python cursor_id_manager.py --restore 备份文件路径
 1. 运行前请确保：
    - 已完全关闭 Cursor 编辑器
    - 具有足够的文件系统权限
-   - 已备份重要数据（虽然工具��自动创建备份）
+   - 已备份重要数据（虽然工具自动创建备份）
 
 2. 自动备份机制：
    - 在进行任何修改前自动创建
@@ -110,5 +110,5 @@ Copyright (c) 2024 [作者名称]
 
 本软件按"原样"提供，不提供任何形式的明示或暗示的保证，包括但不限于对适销性、
 特定用途的适用性和非侵权性的保证。在任何情况下，作者或版权持有人均不对任何索赔、
-损害或其他责任负责，无���是在合同诉讼、侵权行为或其他方面，由软件或软件的使用或
+损害或其他责任负责，无论是在合同诉讼、侵权行为或其他方面，由软件或软件的使用或
 其他交易产生、引起或与之相关。 
