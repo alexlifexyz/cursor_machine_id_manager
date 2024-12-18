@@ -98,6 +98,10 @@ python cursor_id_manager.py --restore path/to/backup/file
 - No external dependencies required
 - No data is sent to any external servers
 
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=alexlifexyz/cursor_machine_id_manager&type=Date)](https://star-history.com/#alexlifexyz/cursor_machine_id_manager&Date)
+
 ---
 
 <a id="简体中文"></a>
@@ -195,6 +199,10 @@ python cursor_id_manager.py --restore 备份文件路径
 - 自动备份保护防止数据丢失
 - 无需外部依赖
 - 不会向任何外部服务器发送数据
+
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=alexlifexyz/cursor_machine_id_manager&type=Date)](https://star-history.com/#alexlifexyz/cursor_machine_id_manager&Date)
 
 ---
 
